@@ -1,0 +1,26 @@
+{
+  "name": "crud_products_socket.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IbrahimBenRayana/Crud_Products_Socket.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IbrahimBenRayana/Crud_Products_Socket.io/issues"
+  },
+  "homepage": "https://github.com/IbrahimBenRayana/Crud_Products_Socket.io#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^7.0.1",
+    "socket.io": "^4.6.1"
+  }
+}
